@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Trained model (auto-generated on first run)
+static/face_recognition_model.pkl
+
+# Face image data (private user data — do NOT commit)
+static/faces/
+
+# Attendance CSVs (auto-generated daily)
+Attendance/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
