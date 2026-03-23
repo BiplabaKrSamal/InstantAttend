@@ -133,7 +133,7 @@ http://127.0.0.1:5000
 | Face Detection | OpenCV (Haar Cascade Classifier) |
 | Face Recognition | scikit-learn (KNN Classifier) |
 | Frontend | HTML5, Bootstrap 5, Jinja2 |
-| Data Storage | CSV (Pandas), Joblib (model persistence) |
+| Data Storage | CSV (Pandas), SQL |
 
 ---
 
