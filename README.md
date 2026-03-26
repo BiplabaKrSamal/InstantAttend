@@ -140,7 +140,6 @@ http://127.0.0.1:5000
 ## 🔮 Future Improvements
 
 - [ ] Anti-spoofing / liveness detection
-- [ ] Export attendance as Excel / PDF
 - [ ] Email daily report to admin
 - [ ] Multi-camera support
 - [ ] Cloud database integration (Firebase / PostgreSQL)
