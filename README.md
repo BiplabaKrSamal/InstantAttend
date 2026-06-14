@@ -1,5 +1,3 @@
-From the GitHub page I already fetched, here is the original README content:
-
 ---
 
 # 🎯 InstantAttend — Real-Time Face Recognition Attendance System
